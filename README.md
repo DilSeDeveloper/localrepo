@@ -1,2 +1,1 @@
-#This is my local repo
-cd
+# This is my local repo
